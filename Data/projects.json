@@ -1,0 +1,39 @@
+ [
+    {
+        "ProjectID":1,
+        "ProjectName":"Demo Project 01",
+        "ProjectImage":"https://dummyimage.com/250x250/000/fff.png",
+        "ProjectDescription":"Commodo mauris potenti litora sed mollis Tincidunt ad vulputate consectetuer turpis feugiat quis accumsan bibendum tellus, vestibulum congue fermentum. Fringilla proin metus cum nullam faucibus, pharetra netus. Fusce. Eget. Mus.",
+        "ProjectDate":"11 May 2022",
+        "ProjectGitRepo":"https://github.com/ziggyrafiq/.Net-6-EF-Core-with-Enum-",
+        "ProjectLiveUrl":"https://demo.ziggyrafiq/demo01"
+    }, 
+    {
+        "ProjectID":2,
+        "ProjectName":"Demo Project 02",
+        "ProjectImage":"https://dummyimage.com/250x250/000/fff.png",
+        "ProjectDescription":"Ad elit in per posuere inceptos etiam hymenaeos Dapibus. Duis iaculis velit, amet maecenas. Mi Morbi ac inceptos. Nunc. Tellus ad fusce. Ultricies nibh condimentum aptent quisque.",
+        "ProjectDate":"11 May 2022",
+        "ProjectGitRepo":"https://github.com/ziggyrafiq/.Net-6-EF-Core-with-Enum-",
+        "ProjectLiveUrl":"https://demo.ziggyrafiq/demo02"
+    },
+    {
+        "ProjectID":3,
+        "ProjectName":"Demo Project 03",
+        "ProjectImage":"https://dummyimage.com/250x250/000/fff.png",
+        "ProjectDescription":"Mus aliquam. Sed purus dictum praesent semper ac inceptos egestas scelerisque. Tortor cum tempor cras lectus sodales pulvinar.",
+        "ProjectDate":"11 May 2022",
+        "ProjectGitRepo":"https://github.com/ziggyrafiq/.Net-6-EF-Core-with-Enum-",
+        "ProjectLiveUrl":"https://demo.ziggyrafiq/demo01"
+    }, 
+    {
+        "ProjectID":4,
+        "ProjectName":"Demo Project 04",
+        "ProjectImage":"https://dummyimage.com/250x250/000/fff.png",
+        "ProjectDescription":"Ipsum diam sed quam fusce vel cubilia lorem, porta felis mauris aenean. Aliquam etiam. Aliquet, ridiculus mus varius ullamcorper vehicula tortor proin hendrerit pellentesque eleifend.",
+        "ProjectDate":"11 May 2022",
+        "ProjectGitRepo":"https://github.com/ziggyrafiq/.Net-6-EF-Core-with-Enum-",
+        "ProjectLiveUrl":"https://demo.ziggyrafiq/demo02"
+    }
+]
+ 

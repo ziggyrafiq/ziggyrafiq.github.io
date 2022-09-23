@@ -1,0 +1,16 @@
+ //THIS IS BASIC
+
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+		
+		background-image: $img-main-background;
+		background-repeat: repeat;
+		color:$colour-default-text;
+		font-size:$font-size-default;
+		font-family: $font-family-text;
+	}

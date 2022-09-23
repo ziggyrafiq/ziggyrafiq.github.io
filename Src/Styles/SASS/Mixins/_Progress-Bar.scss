@@ -1,0 +1,50 @@
+@mixin Progress-Bar-Configuration($progress-bar-colour, $progress-bar-label-colour, $progress-bar-height){
+      .skills:not(:last-child){
+      margin-bottom: 30px;
+
+      }
+
+      .progress-bar-label{
+      width: 100%;
+      display: flex;  
+      justify-content: space-between;
+      margin-bottom: 10px;
+            color: $progress-bar-label-colour;
+            font-weight: bold;
+      }
+      .bar{
+      position: relative;
+      
+      border: 2px solid $progress-bar-colour;
+      
+      border-radius: 20px;
+      
+      }
+      .bar div{
+      position: relative;
+      width: 0;
+      height: $progress-bar-height;
+      border-radius: 10px;
+      background-color: $progress-bar-colour;
+      }
+}
+
+
+@mixin Progress-Bar-Item($name, $percentage ) {
+
+     #{$name}-bar{
+            animation: #{str-slice($name,2)}-fill 2s forwards;
+      }
+
+  @-webkit-keyframes #{#{str-slice($name,2)}-fill} {
+   100%{
+         width: $percentage;
+   }
+  }
+  @keyframes #{#{str-slice($name,2)}-fill} {
+   100%{
+         width: $percentage;
+   }
+
+  }
+}

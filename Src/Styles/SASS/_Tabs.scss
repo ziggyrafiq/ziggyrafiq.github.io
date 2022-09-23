@@ -1,0 +1,72 @@
+.tab {
+  
+ overflow: hidden;
+float:right;
+text-align:right;
+ padding: -1px !important;
+ margin:  -1px !important;
+ 
+}
+
+.tab button {
+    background-color: inherit;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    margin-left:  5px;
+    transition: 0.3s;
+    font-size: 17px;
+    font-weight: bold;
+    background:$colour-tab-link-background;
+    -webkit-border-top-left-radius: 15px;
+    -webkit-border-top-right-radius: 15px;
+    -moz-border-radius-topleft: 15px;
+    -moz-border-radius-topright: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px; 
+
+    &:hover {
+      background-color:$colour-tab-link-hover-background;;
+      color:$colour-tab-link-hover-text;
+      font-weight: bold;
+    }
+
+    &.active {
+      background-color:$colour-tab-link-active-background;
+      color:$colour-tab-link-active-text;
+      font-weight: bold;
+    }
+
+    @include  small-down{
+      padding: 10px 10px;
+      margin-left:  2px;
+      font-size: 12px;
+    }
+
+    @include extra-small{
+      padding: 8px 8px;
+      margin-left:  2px;
+      font-size: 11.50px;
+    }
+}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    background-color:$colour-tab-background;
+    border-top-left-radius: 15px; 
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;  
+ 
+    
+
+    @include small-down{
+      
+      border-top-left-radius: 0px; 
+      border-bottom-left-radius: 0px;
+      border-bottom-right-radius: 0px;  
+      padding: 0px;
+ 
+    }
+}

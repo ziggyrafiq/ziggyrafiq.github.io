@@ -1,3 +1,15 @@
+/************************************************************************************************************
+*  COPYRIGHT BY ZIGGY RAFIQ (ZAHEER RAFIQ)
+*  LinkedIn Profile URL Address: https://www.linkedin.com/in/ziggyrafiq/ 
+*
+*  Website  :  	Ziggy Rafiq GitHub Website
+*  Date     :  	23/09/2022
+*  Author   :  	Ziggy Rafiq (https://www.ziggyrafiq.com)
+*  Notes    :  	
+*  Reminder :	PLEASE DO NOT CHANGE OR REMOVE AUTHOR NAME.
+*
+************************************************************************************************************/
+
 const jsonDataBlogPosts = './Data/blogs.json';
  
 let blogTabCountClicks = 0;

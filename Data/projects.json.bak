@@ -1,0 +1,30 @@
+ [
+    {
+        "ProjectID":1,
+        "ProjectName":"ZR Demo Project 01",
+        "ProjectImage":"ZR-Demo-01.png",
+        "ProjectDescription":"The ZR Demo Project 01 is a demo based around a fictional book store. It demonstrates how Swagger API documentation can be created using Microsoft Visual Studio 2022 with .Net 6 and Entity Framework 6.",
+        "ProjectDate":"20 September 2022",
+        "ProjectGitRepo":"https://github.com/ziggyrafiq/ZR-Demo-Project-01"
+        
+    }, 
+    {
+        "ProjectID":2,
+        "ProjectName":"ZR Demo Project 02",
+        "ProjectImage":"ZR-Demo-02.png",
+        "ProjectDescription":"The ZR Demo Project 02 demonstrates the use of DPAPI-NG using C#, ASP.NET Core REST API with Unit of Work and Repository pattern, and Microsoft SQL Database with Entity Framework 6.",
+        "ProjectDate":"25 September 2022",
+        "ProjectGitRepo":"https://github.com/ziggyrafiq/IS-Demo-Project-Exercise"
+        
+    },
+    {
+        "ProjectID":3,
+        "ProjectName":"Enum Data Values with .Net 6 Framework",
+        "ProjectImage":"How-to-use-Enum-Data-Values-with-Dot-Net-6.0-Framework-and-Entity-Framework-Core-6.png",
+        "ProjectDescription":" An article with source code about using Enum Data values with .Net 6 frameworks and Entity Framework 6 as well as how to deal with ambiguous reference types.",
+        "ProjectDate":"11 May 2022",
+        "ProjectGitRepo":"https://github.com/ziggyrafiq/.Net-6-EF-Core-with-Enum-"
+       
+    } 
+]
+ 

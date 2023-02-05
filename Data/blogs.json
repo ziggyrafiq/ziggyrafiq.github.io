@@ -1,6 +1,51 @@
 [
     {
         "BlogPostId":1,
+        "BlogPostTitle":"ASP.net Core Services Lifetime Differences Between Using AddTransient, AddScoped and AddSingleton Services",
+        "BlogPostImage":"ziggy-rafiq-aspnet-core-serivices-lifetime.png",
+        "BlogPostDescription":" The purpose of this blog post I will be to explain the ASP.net core Service Lifetime to you, and which one can lead to a memory leak if used incorrectly. AddTransient, AddScoped, and AddSingleton are dependency injection services in ASP.NET Core.",
+        "BlogPostPublishDate":"3rd February 2023",
+        "BlogPostGitRepo":"-",
+        "BlogPostUrl":"https://blog.ziggyrafiq.com/2023/02/aspnet-core-services-lifetime.html"
+    },
+    {
+        "BlogPostId":2,
+        "BlogPostTitle":"Explaining Terraform Code as Infrastructure (CAI)",
+        "BlogPostImage":"ziggy-rafiq-explaining-terraform-code-as-infrastructure.png",
+        "BlogPostDescription":" In this blog post, I shall be explaining to you what Terraform is and I will also provide you with code examples showing how to use Terraform, which is code as infrastructure (CAI).",
+        "BlogPostPublishDate":"2nd February 2023",
+        "BlogPostGitRepo":"-",
+        "BlogPostUrl":"https://blog.ziggyrafiq.com/2023/02/explaining-terraform-code-as.html"
+    },
+    {
+        "BlogPostId":3,
+        "BlogPostTitle":"Best Practice for Code Reviewing C#",
+        "BlogPostImage":"ziggy-rafiq-best-practice-for-code-reviewing-c-sharp.png",
+        "BlogPostDescription":" A code review is a crucial step in the software development process that helps ensure the code quality, maintainability, and consistency of the final product.",
+        "BlogPostPublishDate":"2nd February 2023",
+        "BlogPostGitRepo":"-",
+        "BlogPostUrl":"https://blog.ziggyrafiq.com/2023/02/best-practice-for-code-reviewing-c.html"
+    },
+    {
+        "BlogPostId":4,
+        "BlogPostTitle":" Best Practice for Code Reviewing JavaScript ",
+        "BlogPostImage":"ziggy-rafiq-best-practice-for-code-reviewing-javascript.png",
+        "BlogPostDescription":"In the process of software development, code reviews are an important part of the process. They help to ensure the quality of the code, its maintainability, and its consistency.",
+        "BlogPostPublishDate":"2nd February 2023",
+        "BlogPostGitRepo":"-",
+        "BlogPostUrl":"https://blog.ziggyrafiq.com/2023/02/best-practice-for-code-reviewing_2.html"
+    },
+        {
+        "BlogPostId":5,
+        "BlogPostTitle":" Best Practice for Code Reviewing TypeScript ",
+        "BlogPostImage":"ziggy-rafiq-best-practice-for-code-reviewing-typescript.png",
+        "BlogPostDescription":"During software development, code reviews play an important role in ensuring that the code development process is up-to-date, maintainable, and consistent.",
+        "BlogPostPublishDate":"2nd February 2023",
+        "BlogPostGitRepo":"-",
+        "BlogPostUrl":"https://blog.ziggyrafiq.com/2023/02/best-practice-for-code-reviewing.html"
+    },
+    {
+        "BlogPostId":6,
         "BlogPostTitle":"How to use Enum Data Values with .Net 6.0 Framework and Entity Framework Core 6",
         "BlogPostImage":"How-to-use-Enum-Data-Values-with-Dot-Net-6.0-Framework-and-Entity-Framework-Core-6.png",
         "BlogPostDescription":" Enums (Enumerations) are read-only value types. As a default, the Enum variable has a value of 0 i.e. For this example, we will create an Enum of Priorities type with read-only values of Highest, Normal, and Low. Using an integer, we will assign a number next to the read-only values.",
@@ -9,7 +54,7 @@
         "BlogPostUrl":"https://blog.ziggyrafiq.com/2022/04/how-to-use-enum-data-values-with-net-60.html"
     },
     {
-        "BlogPostId":2,
+        "BlogPostId":7,
         "BlogPostTitle":"Agile Scrum Definitions",
         "BlogPostImage":"Agile-Scrum-Definitions.png",
         "BlogPostDescription":"In my experience working with Agile Scrum teams over the past few years, I have seen at some places that the definitions of Agile Scrum are not clear. I decided to write this blog post based on a few basic Agile Scrum definitions.",
@@ -18,7 +63,7 @@
         "BlogPostUrl":"https://blog.ziggyrafiq.com/2021/06/agile-scrum-definitions.html"
     },
     {
-        "BlogPostId":3,
+        "BlogPostId":8,
         "BlogPostTitle":"How to be a successful Software Consultant (Full-Stack Designer and Developer)",
         "BlogPostImage":"How-to-be-a-successful-Software-Consultant-Full-Stack-Designer-and-Developer.png",
         "BlogPostDescription":"By following these simple rules, I became a successful Software Consultant and share these rules with you to help you become a successful Web Designer, Web Developer, and Full-Stack Developer.",
@@ -27,7 +72,7 @@
         "BlogPostUrl":"https://blog.ziggyrafiq.com/2020/07/how-to-be-successful-software.html"
     },
        {
-        "BlogPostId":4,
+        "BlogPostId":9,
         "BlogPostTitle":"12 Principles of Agile by Ziggy Rafiq",
         "BlogPostImage":"12-Principles-of-Agile-by-Ziggy-Rafiq.png",
         "BlogPostDescription":"Basically, it is a set of values and principles. In order to develop software effectively and on time, Agile gives people a common basis for making decisions.",

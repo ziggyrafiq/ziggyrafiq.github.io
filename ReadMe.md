@@ -86,6 +86,23 @@ You Can find a template name Baseplate HTML5, which I have created as a starting
 
 The tools I used to build my website Ziggy Rafiq GitHub version are Microsoft VS Code for coding and Adobe Photoshop for designing the UI and GUI of the website. Keeping everything simple and clean so that later a junior developer or even a senior develop can take this project and make use of it for their own use. Please note that when you do make this project use for your own project, please let me know and please do not remove any copyright comments.
 
+
+## Author
+### Ziggy Rafiq
+- **Technical Lead Developer, C# Corner (MVP 🏅, VIP⭐️, Public Speaker🎤), Mentor, and Trainer**
+- **C# Corner MVP, VIP, Speaker, Chapter Lead UK**
+- Mentor and Trainer with solid experience in System Architecture for over 19 years
+- Link to [**Ziggy Rafiq Blog**](https://blog.ziggyrafiq.com)
+- Link to [**Ziggy Rafiq Website**](https://ziggyrafiq.com)
+* [**Please remember to subscribe to My YouTube channel**](https://www.youtube.com/)
+* [**Please remember to follow me on LinkedIn**](https://www.linkedin.com/in/ziggyrafiq/)
+* [**Please remember to connect with me on C# Corner**](https://www.c-sharpcorner.com/members/ziggy-rafiq)
+* [**Please remember to follow  me on Twitter/X**](https://twitter.com/ziggyrafiq)
+* [**Please remember to follow  me on Instagram**](https://www.instagram.com/ziggyrafiq/)
+* [**Please remember to follow  me on Facebook**](https://www.facebook.com/ziggyrafiq)
+
+
+
 ## License
 
 This project is licensed under the MIT license and is released under the MIT license (http://opensource.org/licenses/MIT) and can be used under the MIT license as you inform Ziggy Rafiq by emailing to (ziggy@ziggyrafiq.com) and you must include the LICENSE file in your project and the author of this project (Ziggy Rafiq | https://ziggyrafiq.com).

@@ -1,0 +1,18 @@
+Ziggy Rafiq GitHub Website - Overview
+
+Ziggy Rafiq's GitHub website is a professionally designed static website, crafted using HTML5, CSS3 (SCSS), and JavaScript. This project serves as a demonstration of building a user-friendly website hosted on GitHub, showcasing best practices, accessibility, and responsive design across various devices.
+
+Requirements
+To understand ZiggyRafiq.com and gain insights into blog posts, demo projects, and skills, this static website employs HTML5, CSS3 (SASS/SCSS), and JavaScript. It aims to present Ziggy Rafiq's profile, selected blog posts, and demo projects. The project is licensed under the MIT license, and anyone interested in using it must contact Ziggy Rafiq (ziggy@ziggyrafiq.com) and include a link to https://ziggyrafiq.com for attribution.
+
+Problems and Solution
+To achieve a clean and straightforward data solution for showcasing recent blog posts and projects, a JSON file was created to hold the necessary data. The JSON file is updated via Ziggy Rafiq's REST API from his main website, ZiggyRafiq.com.
+
+Project Folder Structure
+The project follows a standard website structure, with folders for data, images, scripts, styles, fonts, icons, and a favicon. The "Baseplate HTML5" template serves as the starting point for website design and development.
+
+Tools Used
+The project was developed using Microsoft VS Code for coding and Adobe Photoshop for designing the user interface and graphics. The emphasis on simplicity and cleanliness ensures that both junior and senior developers can easily use and build upon this project. Any future users of this project are requested to retain the copyright comments and inform Ziggy Rafiq (ziggy@ziggyrafiq.com) when implementing it.
+
+License
+Ziggy Rafiq GitHub Website is released under the MIT license (http://opensource.org/licenses/MIT). To use this project, users must acknowledge Ziggy Rafiq by including a link to https://ziggyrafiq.com in their project and provide proper attribution. Before usage, users are required to inform Ziggy Rafiq via email (ziggy@ziggyrafiq.com) and include the LICENSE file in their project.
